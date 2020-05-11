@@ -1,0 +1,26 @@
+I"—<p>Manage AWS infrastructure as Code based environment focused on 
+CloudFormation template and Lambda functions.</p>
+<ul>
+  <li>OWASP ZAP implementation:</li>
+  <li>Using ECS Fargate, integrate ZAP automation into CI/CD CodePipeline with Lambda function
+Build Docker container for base image of ZAP with headless mode on ECS repository
+Code build through Lambda serverless using Nodejs and Python with on-demand
+Deploy the application with Serverless from local machine creating Lambda code and Cloudformation
+Generate OWASP report with HTML format, and save it into S3 bucket with SNS notification</li>
+  <li>HP Fortify implementation:</li>
+  <li>Integrate CI/CD Codepipeline using CloudFormation, CodeBuild, and Docker container
+Build base image for Source Code Analyzer(SCA) with Docker container 
+Modify existing Codepipeline and CodeBuild with CloudFormation YAML template
+Create a script to apply changes for multiple Cloudformation templates to update CD/CD codepipeline
+Generate SCA report into S3 bucket and using Lambda function for customized SNS notification</li>
+  <li>Create and manage multiple AWS accounts for IAM roles and policies users and services</li>
+  <li>Create a base service level monitoring for application using CloudWatch custom matrix with SNS</li>
+  <li>Create a custom system maintenance page on CloudFront with a static webpage on a S3 bucket</li>
+  <li>Planning Blue/Green deployment with Lambda serverless implementation</li>
+  <li>Composed DR strategy for multi-regional deployment on AWS with Lambda serverless</li>
+  <li>Create S3 bucket policy with lifecycle for logs rotation and encryption with SSE-KMS</li>
+  <li>Troubleshooting ELK Stacks (Elasticsearch, Kinesis, and Splunk) for applications monitoring to deploy 
+  multiple environments with updated policy through Cloudformation</li>
+  <li>Integrate Dome9 Cloud security tool to visualize network layer and meet a compliance on AWS VPC</li>
+</ul>
+:ET

@@ -1,0 +1,26 @@
+I"ˆ<ul>
+  <li>Involving TCOM and Lexus brand AWS Cloud migration project from OSS to AWS Lift &amp; Shift accounts</li>
+  <li>Manage multiple AWS accounts for user management with federated access through Microsoft Azure</li>
+  <li>Managed and setup CDN for migrating from Akamai to CloudFront with AWS CLI and bash script with split origins and behaviors</li>
+  <li>Setup Elastic Beanstalk for BAT project regarding application configuration management with ELB and Auto Scaling group for creating/removing EC2 instance(s) with on-demand traffic loads</li>
+  <li>Manage and on-premises(OSS) and AWS AMI such as Linux distributions such as Red Hat Enterprise Linux, CentOS with building customized environment with CloudFormation</li>
+  <li>Manage Route 53 records to config different CNAMEs, Aliases and A records with different domains</li>
+  <li>Manage and setup S3 buckets for private and public setup with bucket policy for cross AWS accounts access</li>
+  <li>Manage web servers and software load balancers such as Apache HTTPD, HAProxy, etc. such as Alias, ReverseProxy and redirect rules to communicate different applications and servers</li>
+  <li>Experience working on application servers such as Tomcat, JBoss etc.</li>
+  <li>Experience working on database servers such as RDS, DynamoDB, MySQL, Oracle, PostgreSQL etc.</li>
+  <li>Experience working with CloudWatch for detail monitoring of each instance with custom metrics</li>
+  <li>Support for Load test with monitoring for both web servers and application servers(Apache, Jboss and Tomcat) traffic with provided use cases and analyze the results with BlazeMeter</li>
+  <li>Experience working with scripting languages (e.g. Bash, Perl, and Python and ebextension for software deployment with CI/CD like Jenkins)</li>
+  <li>Excellent problem and troubleshooting skills for complex technical issues with decoupled multiple servers</li>
+  <li>Experience in software Release Management, Deployment and Build Management</li>
+  <li>Experience with QA and UAT for application testing with validation and troubleshooting</li>
+  <li>Experience with WAF for application layer protecting to protect asset from external malicious traffic.</li>
+  <li>Implemented AWS multiple accounts federation with Microsoft Azure AD(IdP) using FederatedToken SAML 2.0 for authentication and authorization communicating with internal OpenLDAP</li>
+  <li>Deploy functions through AWS Lambda,  and use X-Ray trace to monitor performance of the functions</li>
+  <li>Experience Apache SOLR for searching and indexing data tool with DB</li>
+  <li>Setup, deploy, and troubleshoot application monitoring tools for application agent and machine agents (AppDynamics) on Stage and Prod for Apache and JBoss</li>
+  <li>Setup 2-way SSL for client and server with secure channel communication on keyStore and trustStore</li>
+  <li>Migrate AzureAD account from existing account to a new account for multiple AWS accounts</li>
+</ul>
+:ET
