@@ -162,6 +162,37 @@ experiences:
       -	Ensured that procedures were followed so that customer implementations were handed over to Customer Support from Professional Services; searched or reviewed SLA(Service Level Agreement) documents
       -	A significant contributor to knowledge base/FAQ; posted technical articles on the Intranet with monthly basis with basic HTML template to keep simple and organized
       -	Maintained and managed customer test environments with Virtual Machines for problem replication with XML configuration files with JBoss, WebSphere environment in UNIX
+  - role: IT Specialist (System/Network Administrator)
+    time: Aug. 2008 - Jun. 2012
+    company: H.C. Park & Associate, PLC, Vienna, VA
+    details: |
+      -	Managed 45+ users on Windows SBS 2011 domain and keeping up-to-date the user systems with Active Directory environment
+      -	Built up & migrated data from Windows SBS 2003 to a new Windows SBS 2011 successfully with limited time window with virtual Linux environment (ESXi 3.0)
+      -	Upgraded the speed of network with optimizing server configuration management
+      -	Participated in the decision making process for purchasing new hardware and software with limited resource and gaining the best results of ROI (Return of Investment)
+      -	Designed security aspects of the network topology, access control, identity management and other security systems; established security policies and security requirements
+      -	Backed up and maintained data on the server, workstations and system monitoring for BCP and DRP
+      -	Created and updated company website, and other events websites with HTML, XML, CSS & PHP languages on Apache server for posting contents on demand(ex. Portal site with PHP, PayPal payment)
+      -	Created system reports in regular basis based on system maintenance and analyzed the system logs
+      -	Supported users’ system and server for troubleshooting in daily basis and maintained MS-SQL server
+      -	Performed procedures to prevent/detect/correct the spread of viruses and spam mails
+      -	Added/configured new workstations and peripherals (NAS, Printer, Router, Switch and etc.)
+  - role: IT Support
+    time: Sep. 2005 - Aug. 2008
+    company: Patton Harris Rust & Associate, pc, Germantown, MD
+    details: |
+      -	Managed 50+ users on Windows2000 Server and kept up-to-date the user system. 
+      -	Added or removed users from Active Directory and update group policy file on the server.
+      -	User support and troubleshooting through local & remote Access.
+      -	Updated internal website contents with HTML based and maintain CAD library on the server for the company standard.
+  - role: CADD Technician
+    time: Sep. 2005 - Aug. 2008
+    company: Patton Harris Rust & Associate, pc, Germantown, MD
+    details: |
+      -	Performed stormwater management design and engineering by using AutoCAD 2005. 
+      -	Calculated soil amount by using Land Development Desktop 3D based on the designed contours in helping prepare estimates for how much projects would be to cost, or for maintenance manuals
+      -	Assigned a separate area of a project under the supervision of a design engineer
+      -	Developed a design, worked from a computer model of the item or changed detailed diagrams so it can be produced with standardized format
 
 projects:
   title: Projects
