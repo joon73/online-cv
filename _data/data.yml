@@ -197,29 +197,27 @@ experiences:
 projects:
   title: Projects
   intro: >
-    You can list your side projects or open source libraries in this
-    section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Involved and developed orchestrating multiple services with cross-platform environments. On-premise and different vendors with AWS.
   assignments:
-    - title: Velocity
+    - title: Lift & Shit Datacenter Migration to AWS -- Toyota.com
       link: '#hook'
-      tagline: 'A responsive website template designed to help startups promote, market and sell their products.'
+      tagline: 'Migration for frontend, backend, and DB including micro services'
 
-    - title: DevStudio
+    - title: CDN Migration -- Toyota.com
       link: '#'
-      tagline: 'A responsive website template designed to help web developers/designers market their services.'
+      tagline: 'Migration for CDN from Akamai to AWS CloudFront'
 
-    - title: Tempo
+    - title: Setup new Infrastructure on AWS -- BuyAToyota.com
       link: '#'
-      tagline: 'A responsive website template designed to help startups promote their products or services and to attract users &amp; investors'
+      tagline: 'Setup ElasticBeanstalk as a Platform for multiple regions'
 
-    - title: Atom
+    - title: Raspberry Pi -- Avery.com
       link: '#'
-      tagline: 'A comprehensive website template solution for startups/developers to market their mobile apps.'
+      tagline: 'Create and setup scanner tool which was developed by Python integtating with Lambda function and SQS'
 
-    - title: Delta
+    - title: DR for AMI automation -- Avery.com
       link: '#'
-      tagline: 'A responsive Bootstrap one page theme designed to help app developers promote their mobile apps'
+      tagline: 'Create lambda functions for automating backup and cleanup EC2 instances with cron schedule'
 
 publications:
   title: Certifications
