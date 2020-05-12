@@ -13,7 +13,7 @@ sidebar:
 
   # Sidebar links
   email: joon73@gmail.com
-  phone: 012 345 6789
+  phone: 202 744 7335
   website: blog.webjeda.com #do not add http://
   linkedin: alandoe
   github: sharu725
@@ -32,13 +32,13 @@ sidebar:
       level: Professional
 
   interests:
-    - item: Climbing
-      link:
-
-    - item: Snowboarding
+    - item: Cars
       link:
 
     - item: Cooking
+      link:
+
+    - item: Music
       link:
 
 career-profile:
@@ -199,23 +199,23 @@ projects:
   intro: >
     Involved and developed orchestrating multiple services with cross-platform environments. On-premise and different vendors with AWS.
   assignments:
-    - title: Lift & Shit Datacenter Migration to AWS -- Toyota.com
+    - title: Lift & Shit Datacenter Migration to AWS (Toyota.com)
       link: '#hook'
       tagline: 'Migration for frontend, backend, and DB including micro services'
 
-    - title: CDN Migration -- Toyota.com
+    - title: CDN Migration (Toyota.com)
       link: '#'
       tagline: 'Migration for CDN from Akamai to AWS CloudFront'
 
-    - title: Setup new Infrastructure on AWS -- BuyAToyota.com
+    - title: Setup new Infrastructure on AWS (BuyAToyota.com)
       link: '#'
       tagline: 'Setup ElasticBeanstalk as a Platform for multiple regions'
 
-    - title: Raspberry Pi -- Avery.com
+    - title: Raspberry Pi (Avery.com)
       link: '#'
       tagline: 'Create and setup scanner tool which was developed by Python integtating with Lambda function and SQS'
 
-    - title: DR for AMI automation -- Avery.com
+    - title: DR for AMI automation (Avery.com)
       link: '#'
       tagline: 'Create lambda functions for automating backup and cleanup EC2 instances with cron schedule'
 
