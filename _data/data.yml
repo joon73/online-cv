@@ -221,35 +221,36 @@ projects:
 
 publications:
   title: Certifications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+  intro:
   papers:
+    - title: Certified Information System Auditor
+      link: '#'
+      authors: ISACA
+      conference:
     - title: AWS Certified Solution Architect -- Professional
       link: '#'
       authors: Amazon Web Service
-      conference: Addison-Wesley, 1968
+      conference: 'Issued Jul 2017, Expires Feb 2023'
 
     - title: AWS Certified DevOps -- Professional
       link: '#'
       authors: Amazon Web Service
-      conference: 'Comm. ACM 4 (1961), 51–55'
+      conference: 'Issued Sep 2018, Expires Sep 2021'
 
     - title: AWS Certified Solution Architect -- Associate
       link: '#'
       authors: Amazon Web Service
-      conference: 'Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)'
+      conference: 'Issued Nov 2016, Expires Feb2023'
 
     - title: AWS Certified Developer -- Associate
       link: '#'
       authors: Amazon Web Service
-      conference: 'Comm. ACM 4 (1961), 51–55'
+      conference: 'Issued Aug 2018, Expires Sep 2021'
 
     - title: AWS Certified SysOps Administrator -- Associate
       link: '#'
       authors: Amazon Web Service
-      conference: 'Comm. ACM 4 (1961), 51–55'
+      conference: 'Issued Sep 2018, Expires Sep 2021'
 
 skills:
   title: Skills &amp; Proficiency
